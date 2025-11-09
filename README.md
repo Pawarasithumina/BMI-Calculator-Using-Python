@@ -5,10 +5,10 @@ This project is a simple Python-based BMI (Body Mass Index) calculator that help
 
 🔹 Features:
 
-User-friendly input and output
+1.User-friendly input and output
 
-Accurate BMI calculation formula
+2.Accurate BMI calculation formula
 
-Clear health category interpretation
+3.Clear health category interpretation
 
 💻 Built with: Python (Jupyter Notebook)
